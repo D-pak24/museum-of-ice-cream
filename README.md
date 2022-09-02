@@ -2,4 +2,4 @@
 
 This project is inspired by colt steele musuem of candy.
 
- Website Link:[https://d-pak24.github.io/museum-of-ice-cream/]
+ Website Link: [https://dpak-musuem-of-icecream.netlify.app/]
