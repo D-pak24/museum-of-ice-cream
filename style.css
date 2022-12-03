@@ -40,7 +40,7 @@ body {
 }
 .navbar.scrolled {
   background-color: #ff87b2;
-  transition: background 800ms;
+  transition: all 800ms;
 }
 
 @media (max-width: 1400px) {
